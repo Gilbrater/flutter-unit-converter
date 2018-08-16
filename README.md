@@ -1,6 +1,6 @@
-# custom_widget
+# Unit Converter App
 
-A new Flutter application.
+A Flutter unit converter application.
 
 ## Getting Started
 
