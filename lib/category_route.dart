@@ -88,7 +88,6 @@ class _CategoryRouteState extends State<CategoryRoute>{
   }
 
   @override
-  void @override
   void initState() {
     super.initState();
     for (int i = 0; i < _categoryNames.length; i++) {

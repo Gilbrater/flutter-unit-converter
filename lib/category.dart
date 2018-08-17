@@ -43,8 +43,10 @@ class Category extends StatelessWidget {
             ),
             body: ConverterRoute(
               units: units,
+              name: name,
               color: color,
             ),
+            resizeToAvoidBottomPadding: false,
           );
         },
       ),
